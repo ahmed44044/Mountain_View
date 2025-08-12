@@ -58,6 +58,7 @@ button{
 
 }
 
+
 .about p{
     font-size: 16px;
     line-height: 27px;
@@ -129,3 +130,45 @@ button{
 }
 
 
+
+@media (max-width: 767.98px) { 
+
+.header .header-content h2{
+    font-size: 45px;
+    line-height: 53px;
+    font-weight: 400px;
+}
+.header .header-content p{
+    font-size: 28px;
+    line-height: 53px;
+}
+
+.about h6{
+    font-size: 16px;
+    line-height: 100%;
+}
+.about h3{
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+.projects h2{
+    font-size: 32px;
+    line-height: 30px;
+    text-align: center;
+}
+.projects p{
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.projects h6{
+    font-size: 22px;
+    line-height: 110.00000000000001%;
+}
+.projects h3{
+    font-size: 32px;
+    line-height:110.00000000000001%;
+}
+}
